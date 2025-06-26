@@ -84,3 +84,17 @@ Non-functional requirements describe how the system performs or operates. They f
 - The interface should be user-friendly and responsive across devices.
 
 Understanding both types ensures the system is both **functional** and **reliable**.
+## 🎯 Use Case Diagrams
+
+Use Case Diagrams are visual tools that show how users (actors) interact with a system to achieve goals (use cases). They clarify system functions and help communicate requirements.
+
+**Benefits:**
+- Clear overview of functionality.
+- Identifies system boundaries and roles.
+- Improves communication among stakeholders.
+- Helps spot missing requirements.
+
+Below is the use case diagram for the Booking Management System showing main actors and their interactions.
+
+
+
