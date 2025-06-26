@@ -99,4 +99,25 @@ Use Case Diagrams are a type of behavioral diagram in the Unified Modeling Langu
 Below is a use case diagram illustrating interactions between users (Admin, User, Payment Gateway) and the system functionalities.
 
 ![Use Case Diagram](alx-booking-uc.png)
+## Acceptance Criteria
+
+Acceptance Criteria are specific, predefined conditions that a product or feature must meet to be accepted by users, customers, or stakeholders. They help ensure that development stays aligned with the expected outcomes and that everyone agrees on what "done" looks like.
+
+### Importance of Acceptance Criteria:
+- Set clear expectations for features and functionality.
+- Reduce ambiguity and miscommunication between stakeholders and developers.
+- Provide a basis for testing and validation.
+- Help prioritize features based on user needs and business goals.
+
+### Example: Acceptance Criteria for the “Checkout” Feature
+
+**Feature**: Checkout (Booking Confirmation and Payment)
+
+**Acceptance Criteria:**
+- The user must be logged in to proceed to checkout.
+- The system displays the total amount, including taxes and service charges.
+- The user can choose from multiple payment options (e.g., card, mobile money).
+- A booking summary is displayed before final confirmation.
+- The system confirms successful payment and displays a confirmation message.
+- A confirmation email is sent to the user after successful checkout.
 
